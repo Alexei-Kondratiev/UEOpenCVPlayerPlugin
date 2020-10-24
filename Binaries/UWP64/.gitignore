@@ -1,0 +1,10 @@
+/Resources/
+/AppxManifest.xml
+/UEOpenCVPlayerPlugin.build.appxrecipe
+/UEOpenCVPlayerPlugin.exe
+/UEOpenCVPlayerPlugin.exp
+/UEOpenCVPlayerPlugin.lib
+/UEOpenCVPlayerPlugin.pdb
+/UEOpenCVPlayerPlugin.target
+/UEOpenCVPlayerPlugin.version
+/resources.pri

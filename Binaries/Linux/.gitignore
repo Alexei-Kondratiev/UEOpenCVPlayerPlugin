@@ -1,0 +1,6 @@
+/UE4Editor.modules
+/UEOpenCVPlayerPlugin
+/UEOpenCVPlayerPlugin.target
+/UEOpenCVPlayerPlugin.version
+/UEOpenCVPlayerPluginEditor.target
+/libUE4Editor-UEOpenCVPlayerPlugin.so

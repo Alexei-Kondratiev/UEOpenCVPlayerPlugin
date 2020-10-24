@@ -1,0 +1,26 @@
+{
+	"FileVersion" : 3,
+	"Version" : 0.1,
+	"VersionName" : "0.1",
+	"FriendlyName" : "OpenCV Player Plugin",
+	"Description" : "OpenCV Player Plugin",
+	"Category" : "OpenCV",
+	"CreatedBy" : "Alexei Kondratiev",
+	"CreatedByURL" : "alexei@youspace.com",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EnabledByDefault" : true,
+	"CanContainContent" : false,
+	"IsBetaVersion" : false,
+	"Installed" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "OpenCVPlayerPlugin",
+			"Type" : "Runtime",
+			"LoadingPhase" : "Default"
+		}
+	]
+}
+
