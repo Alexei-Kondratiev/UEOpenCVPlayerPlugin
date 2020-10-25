@@ -1,7 +1,7 @@
 # UEOpenCVPlayerPlugin
 
 ![UEOpenCVPlayerPlugin - Unreal Editor.png](https://github.com/Alexei-Kondratiev/UEOpenCVPlayerPlugin/blob/master/Videos/UEOpenCVPlayerPlugin%20-%20Unreal%20Editor.png?raw=true)
-Unreal Engine 4 Media Framework plug-in using the OpenCV 3 (Open Source Computer Vision Library) library.
+Unreal Engine 4 Offline and Online Video Streaming plug-in using the OpenCV 3 (Open Source Computer Vision Library) library.
 
 
 ## Videos
